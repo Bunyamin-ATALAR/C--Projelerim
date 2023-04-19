@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eskenar_ucgen_alan_yukseklik_hesaplama", "eskenar_ucgen_alan_yukseklik_hesaplama\eskenar_ucgen_alan_yukseklik_hesaplama.csproj", "{F87ADB55-C18B-4755-A50F-A3C6F0BC713B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F87ADB55-C18B-4755-A50F-A3C6F0BC713B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87ADB55-C18B-4755-A50F-A3C6F0BC713B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87ADB55-C18B-4755-A50F-A3C6F0BC713B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87ADB55-C18B-4755-A50F-A3C6F0BC713B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0839C7B8-FE7C-4FF8-882A-147CEE4BE004}
+	EndGlobalSection
+EndGlobal

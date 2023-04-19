@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sinema_Büfe_Satış_Projesi\Sinema_Büfe_Satış_Projesi\bin\Debug\Sinema_Büfe_Satış_Projesi.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sinema_Büfe_Satış_Projesi\Sinema_Büfe_Satış_Projesi\bin\Debug\Sinema_Büfe_Satış_Projesi.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sinema_Büfe_Satış_Projesi\Sinema_Büfe_Satış_Projesi\bin\Debug\Sinema_Büfe_Satış_Projesi.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sinema_Büfe_Satış_Projesi\Sinema_Büfe_Satış_Projesi\obj\Debug\Sinema_Büfe_Satış_Projesi.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sinema_Büfe_Satış_Projesi\Sinema_Büfe_Satış_Projesi\obj\Debug\Sinema_Büfe_Satış_Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sinema_Büfe_Satış_Projesi\Sinema_Büfe_Satış_Projesi\obj\Debug\Sinema_Büfe_Satış_Projesi.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sinema_Büfe_Satış_Projesi\Sinema_Büfe_Satış_Projesi\obj\Debug\Sinema_Büfe_Satış_Projesi.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sinema_Büfe_Satış_Projesi\Sinema_Büfe_Satış_Projesi\obj\Debug\Sinema_Büfe_Satış_Projesi.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sinema_Büfe_Satış_Projesi\Sinema_Büfe_Satış_Projesi\obj\Debug\Sinema_Büfe_Satış_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sinema_Büfe_Satış_Projesi\Sinema_Büfe_Satış_Projesi\obj\Debug\Sinema_Büfe_Satış_Projesi.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sinema_Büfe_Satış_Projesi\Sinema_Büfe_Satış_Projesi\obj\Debug\Sinema_Büfe_Satış_Projesi.pdb

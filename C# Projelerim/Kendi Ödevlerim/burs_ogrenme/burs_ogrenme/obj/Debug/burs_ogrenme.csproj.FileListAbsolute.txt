@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\burs_ogrenme\burs_ogrenme\obj\Debug\burs_ogrenme.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\burs_ogrenme\burs_ogrenme\obj\Debug\burs_ogrenme.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\burs_ogrenme\burs_ogrenme\obj\Debug\burs_ogrenme.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\burs_ogrenme\burs_ogrenme\obj\Debug\burs_ogrenme.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\burs_ogrenme\burs_ogrenme\obj\Debug\burs_ogrenme.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\burs_ogrenme\burs_ogrenme\obj\Debug\burs_ogrenme.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\burs_ogrenme\burs_ogrenme\bin\Debug\burs_ogrenme.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\burs_ogrenme\burs_ogrenme\bin\Debug\burs_ogrenme.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\burs_ogrenme\burs_ogrenme\bin\Debug\burs_ogrenme.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\burs_ogrenme\burs_ogrenme\obj\Debug\burs_ogrenme.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\burs_ogrenme\burs_ogrenme\obj\Debug\burs_ogrenme.pdb

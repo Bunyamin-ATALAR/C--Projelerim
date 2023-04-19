@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\inc_hesaplama\inc_hesaplama\bin\Debug\inc_hesaplama.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\inc_hesaplama\inc_hesaplama\bin\Debug\inc_hesaplama.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\inc_hesaplama\inc_hesaplama\bin\Debug\inc_hesaplama.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\inc_hesaplama\inc_hesaplama\obj\Debug\inc_hesaplama.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\inc_hesaplama\inc_hesaplama\obj\Debug\inc_hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\inc_hesaplama\inc_hesaplama\obj\Debug\inc_hesaplama.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\inc_hesaplama\inc_hesaplama\obj\Debug\inc_hesaplama.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\inc_hesaplama\inc_hesaplama\obj\Debug\inc_hesaplama.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\inc_hesaplama\inc_hesaplama\obj\Debug\inc_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\inc_hesaplama\inc_hesaplama\obj\Debug\inc_hesaplama.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\inc_hesaplama\inc_hesaplama\obj\Debug\inc_hesaplama.pdb

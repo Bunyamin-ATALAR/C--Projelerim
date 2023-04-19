@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Komisyon_Hesaplama\Komisyon_Hesaplama\bin\Debug\Komisyon_Hesaplama.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Komisyon_Hesaplama\Komisyon_Hesaplama\bin\Debug\Komisyon_Hesaplama.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Komisyon_Hesaplama\Komisyon_Hesaplama\bin\Debug\Komisyon_Hesaplama.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Komisyon_Hesaplama\Komisyon_Hesaplama\obj\Debug\Komisyon_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Komisyon_Hesaplama\Komisyon_Hesaplama\obj\Debug\Komisyon_Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Komisyon_Hesaplama\Komisyon_Hesaplama\obj\Debug\Komisyon_Hesaplama.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Komisyon_Hesaplama\Komisyon_Hesaplama\obj\Debug\Komisyon_Hesaplama.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Komisyon_Hesaplama\Komisyon_Hesaplama\obj\Debug\Komisyon_Hesaplama.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Komisyon_Hesaplama\Komisyon_Hesaplama\obj\Debug\Komisyon_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Komisyon_Hesaplama\Komisyon_Hesaplama\obj\Debug\Komisyon_Hesaplama.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Komisyon_Hesaplama\Komisyon_Hesaplama\obj\Debug\Komisyon_Hesaplama.pdb

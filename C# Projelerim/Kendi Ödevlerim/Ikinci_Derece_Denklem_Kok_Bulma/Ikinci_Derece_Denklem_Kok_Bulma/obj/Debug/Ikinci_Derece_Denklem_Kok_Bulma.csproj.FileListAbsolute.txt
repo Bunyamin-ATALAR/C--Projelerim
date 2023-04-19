@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Ikinci_Derece_Denklem_Kok_Bulma\Ikinci_Derece_Denklem_Kok_Bulma\bin\Debug\Ikinci_Derece_Denklem_Kok_Bulma.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Ikinci_Derece_Denklem_Kok_Bulma\Ikinci_Derece_Denklem_Kok_Bulma\bin\Debug\Ikinci_Derece_Denklem_Kok_Bulma.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Ikinci_Derece_Denklem_Kok_Bulma\Ikinci_Derece_Denklem_Kok_Bulma\bin\Debug\Ikinci_Derece_Denklem_Kok_Bulma.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Ikinci_Derece_Denklem_Kok_Bulma\Ikinci_Derece_Denklem_Kok_Bulma\obj\Debug\Ikinci_Derece_Denklem_Kok_Bulma.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Ikinci_Derece_Denklem_Kok_Bulma\Ikinci_Derece_Denklem_Kok_Bulma\obj\Debug\Ikinci_Derece_Denklem_Kok_Bulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Ikinci_Derece_Denklem_Kok_Bulma\Ikinci_Derece_Denklem_Kok_Bulma\obj\Debug\Ikinci_Derece_Denklem_Kok_Bulma.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Ikinci_Derece_Denklem_Kok_Bulma\Ikinci_Derece_Denklem_Kok_Bulma\obj\Debug\Ikinci_Derece_Denklem_Kok_Bulma.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Ikinci_Derece_Denklem_Kok_Bulma\Ikinci_Derece_Denklem_Kok_Bulma\obj\Debug\Ikinci_Derece_Denklem_Kok_Bulma.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Ikinci_Derece_Denklem_Kok_Bulma\Ikinci_Derece_Denklem_Kok_Bulma\obj\Debug\Ikinci_Derece_Denklem_Kok_Bulma.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Ikinci_Derece_Denklem_Kok_Bulma\Ikinci_Derece_Denklem_Kok_Bulma\obj\Debug\Ikinci_Derece_Denklem_Kok_Bulma.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Ikinci_Derece_Denklem_Kok_Bulma\Ikinci_Derece_Denklem_Kok_Bulma\obj\Debug\Ikinci_Derece_Denklem_Kok_Bulma.pdb

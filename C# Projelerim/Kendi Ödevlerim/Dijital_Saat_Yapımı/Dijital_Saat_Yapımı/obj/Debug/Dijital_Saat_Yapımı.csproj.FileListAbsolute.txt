@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Dijital_Saat_Yapımı\Dijital_Saat_Yapımı\bin\Debug\Dijital_Saat_Yapımı.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Dijital_Saat_Yapımı\Dijital_Saat_Yapımı\bin\Debug\Dijital_Saat_Yapımı.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Dijital_Saat_Yapımı\Dijital_Saat_Yapımı\bin\Debug\Dijital_Saat_Yapımı.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Dijital_Saat_Yapımı\Dijital_Saat_Yapımı\obj\Debug\Dijital_Saat_Yapımı.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Dijital_Saat_Yapımı\Dijital_Saat_Yapımı\obj\Debug\Dijital_Saat_Yapımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Dijital_Saat_Yapımı\Dijital_Saat_Yapımı\obj\Debug\Dijital_Saat_Yapımı.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Dijital_Saat_Yapımı\Dijital_Saat_Yapımı\obj\Debug\Dijital_Saat_Yapımı.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Dijital_Saat_Yapımı\Dijital_Saat_Yapımı\obj\Debug\Dijital_Saat_Yapımı.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Dijital_Saat_Yapımı\Dijital_Saat_Yapımı\obj\Debug\Dijital_Saat_Yapımı.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Dijital_Saat_Yapımı\Dijital_Saat_Yapımı\obj\Debug\Dijital_Saat_Yapımı.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Dijital_Saat_Yapımı\Dijital_Saat_Yapımı\obj\Debug\Dijital_Saat_Yapımı.pdb

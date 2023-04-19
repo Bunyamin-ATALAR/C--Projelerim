@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\switch case\switch case\bin\Debug\switch case.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\switch case\switch case\bin\Debug\switch case.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\switch case\switch case\bin\Debug\switch case.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\switch case\switch case\obj\Debug\switch case.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\switch case\switch case\obj\Debug\switch case.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\switch case\switch case\obj\Debug\switch_case.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\switch case\switch case\obj\Debug\switch_case.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\switch case\switch case\obj\Debug\switch case.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\switch case\switch case\obj\Debug\switch case.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\switch case\switch case\obj\Debug\switch case.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\switch case\switch case\obj\Debug\switch case.pdb

@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\int ile 4 islem\int ile 4 islem\bin\Debug\int ile 4 islem.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\int ile 4 islem\int ile 4 islem\bin\Debug\int ile 4 islem.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\int ile 4 islem\int ile 4 islem\bin\Debug\int ile 4 islem.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\int ile 4 islem\int ile 4 islem\obj\Debug\int ile 4 islem.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\int ile 4 islem\int ile 4 islem\obj\Debug\int ile 4 islem.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\int ile 4 islem\int ile 4 islem\obj\Debug\int_ile_4_islem.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\int ile 4 islem\int ile 4 islem\obj\Debug\int_ile_4_islem.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\int ile 4 islem\int ile 4 islem\obj\Debug\int ile 4 islem.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\int ile 4 islem\int ile 4 islem\obj\Debug\int ile 4 islem.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\int ile 4 islem\int ile 4 islem\obj\Debug\int ile 4 islem.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\int ile 4 islem\int ile 4 islem\obj\Debug\int ile 4 islem.pdb

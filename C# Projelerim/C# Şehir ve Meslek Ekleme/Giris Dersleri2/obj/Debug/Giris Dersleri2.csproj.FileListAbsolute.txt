@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giris Dersleri2\Giris Dersleri2\bin\Debug\Giris Dersleri2.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giris Dersleri2\Giris Dersleri2\bin\Debug\Giris Dersleri2.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giris Dersleri2\Giris Dersleri2\bin\Debug\Giris Dersleri2.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giris Dersleri2\Giris Dersleri2\obj\Debug\Giris Dersleri2.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giris Dersleri2\Giris Dersleri2\obj\Debug\Giris Dersleri2.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giris Dersleri2\Giris Dersleri2\obj\Debug\Giris_Dersleri2.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giris Dersleri2\Giris Dersleri2\obj\Debug\Giris_Dersleri2.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giris Dersleri2\Giris Dersleri2\obj\Debug\Giris Dersleri2.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giris Dersleri2\Giris Dersleri2\obj\Debug\Giris Dersleri2.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giris Dersleri2\Giris Dersleri2\obj\Debug\Giris Dersleri2.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giris Dersleri2\Giris Dersleri2\obj\Debug\Giris Dersleri2.pdb

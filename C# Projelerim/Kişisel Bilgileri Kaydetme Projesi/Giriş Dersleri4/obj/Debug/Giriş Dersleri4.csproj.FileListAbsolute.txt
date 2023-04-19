@@ -1,0 +1,22 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri4\Giriş Dersleri4\bin\Debug\Giriş Dersleri4.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri4\Giriş Dersleri4\bin\Debug\Giriş Dersleri4.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri4\Giriş Dersleri4\bin\Debug\Giriş Dersleri4.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri4\Giriş Dersleri4\obj\Debug\Giriş Dersleri4.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri4\Giriş Dersleri4\obj\Debug\Giriş Dersleri4.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri4\Giriş Dersleri4\obj\Debug\Giriş_Dersleri4.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri4\Giriş Dersleri4\obj\Debug\Giriş_Dersleri4.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri4\Giriş Dersleri4\obj\Debug\Giriş Dersleri4.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri4\Giriş Dersleri4\obj\Debug\Giriş Dersleri4.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri4\Giriş Dersleri4\obj\Debug\Giriş Dersleri4.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri4\Giriş Dersleri4\obj\Debug\Giriş Dersleri4.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kişisel Bilgileri Kaydetme Projesi\Giriş Dersleri4\bin\Debug\Giriş Dersleri4.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kişisel Bilgileri Kaydetme Projesi\Giriş Dersleri4\bin\Debug\Giriş Dersleri4.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kişisel Bilgileri Kaydetme Projesi\Giriş Dersleri4\bin\Debug\Giriş Dersleri4.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kişisel Bilgileri Kaydetme Projesi\Giriş Dersleri4\obj\Debug\Giriş Dersleri4.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kişisel Bilgileri Kaydetme Projesi\Giriş Dersleri4\obj\Debug\Giriş Dersleri4.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kişisel Bilgileri Kaydetme Projesi\Giriş Dersleri4\obj\Debug\Giriş_Dersleri4.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kişisel Bilgileri Kaydetme Projesi\Giriş Dersleri4\obj\Debug\Giriş_Dersleri4.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kişisel Bilgileri Kaydetme Projesi\Giriş Dersleri4\obj\Debug\Giriş Dersleri4.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kişisel Bilgileri Kaydetme Projesi\Giriş Dersleri4\obj\Debug\Giriş Dersleri4.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kişisel Bilgileri Kaydetme Projesi\Giriş Dersleri4\obj\Debug\Giriş Dersleri4.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kişisel Bilgileri Kaydetme Projesi\Giriş Dersleri4\obj\Debug\Giriş Dersleri4.pdb

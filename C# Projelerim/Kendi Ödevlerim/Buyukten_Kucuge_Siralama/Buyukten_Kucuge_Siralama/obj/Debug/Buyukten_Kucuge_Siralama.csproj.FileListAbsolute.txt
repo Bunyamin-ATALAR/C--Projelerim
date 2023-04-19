@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Buyukten_Kucuge_Siralama\Buyukten_Kucuge_Siralama\bin\Debug\Buyukten_Kucuge_Siralama.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Buyukten_Kucuge_Siralama\Buyukten_Kucuge_Siralama\bin\Debug\Buyukten_Kucuge_Siralama.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Buyukten_Kucuge_Siralama\Buyukten_Kucuge_Siralama\bin\Debug\Buyukten_Kucuge_Siralama.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Buyukten_Kucuge_Siralama\Buyukten_Kucuge_Siralama\obj\Debug\Buyukten_Kucuge_Siralama.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Buyukten_Kucuge_Siralama\Buyukten_Kucuge_Siralama\obj\Debug\Buyukten_Kucuge_Siralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Buyukten_Kucuge_Siralama\Buyukten_Kucuge_Siralama\obj\Debug\Buyukten_Kucuge_Siralama.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Buyukten_Kucuge_Siralama\Buyukten_Kucuge_Siralama\obj\Debug\Buyukten_Kucuge_Siralama.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Buyukten_Kucuge_Siralama\Buyukten_Kucuge_Siralama\obj\Debug\Buyukten_Kucuge_Siralama.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Buyukten_Kucuge_Siralama\Buyukten_Kucuge_Siralama\obj\Debug\Buyukten_Kucuge_Siralama.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Buyukten_Kucuge_Siralama\Buyukten_Kucuge_Siralama\obj\Debug\Buyukten_Kucuge_Siralama.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Buyukten_Kucuge_Siralama\Buyukten_Kucuge_Siralama\obj\Debug\Buyukten_Kucuge_Siralama.pdb

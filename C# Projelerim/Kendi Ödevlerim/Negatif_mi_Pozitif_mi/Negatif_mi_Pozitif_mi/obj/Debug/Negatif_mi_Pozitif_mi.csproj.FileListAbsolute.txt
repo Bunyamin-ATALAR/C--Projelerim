@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Negatif_mi_Pozitif_mi\Negatif_mi_Pozitif_mi\bin\Debug\Negatif_mi_Pozitif_mi.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Negatif_mi_Pozitif_mi\Negatif_mi_Pozitif_mi\bin\Debug\Negatif_mi_Pozitif_mi.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Negatif_mi_Pozitif_mi\Negatif_mi_Pozitif_mi\bin\Debug\Negatif_mi_Pozitif_mi.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Negatif_mi_Pozitif_mi\Negatif_mi_Pozitif_mi\obj\Debug\Negatif_mi_Pozitif_mi.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Negatif_mi_Pozitif_mi\Negatif_mi_Pozitif_mi\obj\Debug\Negatif_mi_Pozitif_mi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Negatif_mi_Pozitif_mi\Negatif_mi_Pozitif_mi\obj\Debug\Negatif_mi_Pozitif_mi.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Negatif_mi_Pozitif_mi\Negatif_mi_Pozitif_mi\obj\Debug\Negatif_mi_Pozitif_mi.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Negatif_mi_Pozitif_mi\Negatif_mi_Pozitif_mi\obj\Debug\Negatif_mi_Pozitif_mi.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Negatif_mi_Pozitif_mi\Negatif_mi_Pozitif_mi\obj\Debug\Negatif_mi_Pozitif_mi.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Negatif_mi_Pozitif_mi\Negatif_mi_Pozitif_mi\obj\Debug\Negatif_mi_Pozitif_mi.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Negatif_mi_Pozitif_mi\Negatif_mi_Pozitif_mi\obj\Debug\Negatif_mi_Pozitif_mi.pdb

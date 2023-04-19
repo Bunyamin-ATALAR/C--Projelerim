@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Toplam_Tutar_Indirimi\Toplam_Tutar_Indirimi\bin\Debug\Toplam_Tutar_Indirimi.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Toplam_Tutar_Indirimi\Toplam_Tutar_Indirimi\bin\Debug\Toplam_Tutar_Indirimi.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Toplam_Tutar_Indirimi\Toplam_Tutar_Indirimi\bin\Debug\Toplam_Tutar_Indirimi.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Toplam_Tutar_Indirimi\Toplam_Tutar_Indirimi\obj\Debug\Toplam_Tutar_Indirimi.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Toplam_Tutar_Indirimi\Toplam_Tutar_Indirimi\obj\Debug\Toplam_Tutar_Indirimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Toplam_Tutar_Indirimi\Toplam_Tutar_Indirimi\obj\Debug\Toplam_Tutar_Indirimi.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Toplam_Tutar_Indirimi\Toplam_Tutar_Indirimi\obj\Debug\Toplam_Tutar_Indirimi.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Toplam_Tutar_Indirimi\Toplam_Tutar_Indirimi\obj\Debug\Toplam_Tutar_Indirimi.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Toplam_Tutar_Indirimi\Toplam_Tutar_Indirimi\obj\Debug\Toplam_Tutar_Indirimi.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Toplam_Tutar_Indirimi\Toplam_Tutar_Indirimi\obj\Debug\Toplam_Tutar_Indirimi.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Toplam_Tutar_Indirimi\Toplam_Tutar_Indirimi\obj\Debug\Toplam_Tutar_Indirimi.pdb

@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri5\Giriş Dersleri5\bin\Debug\Giriş Dersleri5.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri5\Giriş Dersleri5\bin\Debug\Giriş Dersleri5.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri5\Giriş Dersleri5\bin\Debug\Giriş Dersleri5.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri5\Giriş Dersleri5\obj\Debug\Giriş Dersleri5.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri5\Giriş Dersleri5\obj\Debug\Giriş Dersleri5.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri5\Giriş Dersleri5\obj\Debug\Giriş_Dersleri5.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri5\Giriş Dersleri5\obj\Debug\Giriş_Dersleri5.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri5\Giriş Dersleri5\obj\Debug\Giriş Dersleri5.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri5\Giriş Dersleri5\obj\Debug\Giriş Dersleri5.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri5\Giriş Dersleri5\obj\Debug\Giriş Dersleri5.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Giriş Dersleri5\Giriş Dersleri5\obj\Debug\Giriş Dersleri5.pdb

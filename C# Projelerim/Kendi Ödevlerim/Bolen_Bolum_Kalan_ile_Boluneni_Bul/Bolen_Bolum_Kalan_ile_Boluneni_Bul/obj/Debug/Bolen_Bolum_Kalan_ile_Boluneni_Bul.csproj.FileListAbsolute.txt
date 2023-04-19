@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Bolen_Bolum_Kalan_ile_Boluneni_Bul\Bolen_Bolum_Kalan_ile_Boluneni_Bul\bin\Debug\Bolen_Bolum_Kalan_ile_Boluneni_Bul.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Bolen_Bolum_Kalan_ile_Boluneni_Bul\Bolen_Bolum_Kalan_ile_Boluneni_Bul\bin\Debug\Bolen_Bolum_Kalan_ile_Boluneni_Bul.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Bolen_Bolum_Kalan_ile_Boluneni_Bul\Bolen_Bolum_Kalan_ile_Boluneni_Bul\bin\Debug\Bolen_Bolum_Kalan_ile_Boluneni_Bul.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Bolen_Bolum_Kalan_ile_Boluneni_Bul\Bolen_Bolum_Kalan_ile_Boluneni_Bul\obj\Debug\Bolen_Bolum_Kalan_ile_Boluneni_Bul.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Bolen_Bolum_Kalan_ile_Boluneni_Bul\Bolen_Bolum_Kalan_ile_Boluneni_Bul\obj\Debug\Bolen_Bolum_Kalan_ile_Boluneni_Bul.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Bolen_Bolum_Kalan_ile_Boluneni_Bul\Bolen_Bolum_Kalan_ile_Boluneni_Bul\obj\Debug\Bolen_Bolum_Kalan_ile_Boluneni_Bul.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Bolen_Bolum_Kalan_ile_Boluneni_Bul\Bolen_Bolum_Kalan_ile_Boluneni_Bul\obj\Debug\Bolen_Bolum_Kalan_ile_Boluneni_Bul.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Bolen_Bolum_Kalan_ile_Boluneni_Bul\Bolen_Bolum_Kalan_ile_Boluneni_Bul\obj\Debug\Bolen_Bolum_Kalan_ile_Boluneni_Bul.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Bolen_Bolum_Kalan_ile_Boluneni_Bul\Bolen_Bolum_Kalan_ile_Boluneni_Bul\obj\Debug\Bolen_Bolum_Kalan_ile_Boluneni_Bul.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Bolen_Bolum_Kalan_ile_Boluneni_Bul\Bolen_Bolum_Kalan_ile_Boluneni_Bul\obj\Debug\Bolen_Bolum_Kalan_ile_Boluneni_Bul.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Bolen_Bolum_Kalan_ile_Boluneni_Bul\Bolen_Bolum_Kalan_ile_Boluneni_Bul\obj\Debug\Bolen_Bolum_Kalan_ile_Boluneni_Bul.pdb

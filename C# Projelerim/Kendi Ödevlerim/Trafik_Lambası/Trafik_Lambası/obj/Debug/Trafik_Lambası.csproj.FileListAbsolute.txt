@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Trafik_Lambası\Trafik_Lambası\bin\Debug\Trafik_Lambası.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Trafik_Lambası\Trafik_Lambası\bin\Debug\Trafik_Lambası.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Trafik_Lambası\Trafik_Lambası\bin\Debug\Trafik_Lambası.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Trafik_Lambası\Trafik_Lambası\obj\Debug\Trafik_Lambası.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Trafik_Lambası\Trafik_Lambası\obj\Debug\Trafik_Lambası.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Trafik_Lambası\Trafik_Lambası\obj\Debug\Trafik_Lambası.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Trafik_Lambası\Trafik_Lambası\obj\Debug\Trafik_Lambası.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Trafik_Lambası\Trafik_Lambası\obj\Debug\Trafik_Lambası.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Trafik_Lambası\Trafik_Lambası\obj\Debug\Trafik_Lambası.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Trafik_Lambası\Trafik_Lambası\obj\Debug\Trafik_Lambası.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Trafik_Lambası\Trafik_Lambası\obj\Debug\Trafik_Lambası.pdb

@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kitapci Dukkani\Kitapci Dukkani\bin\Debug\Kitapci Dukkani.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kitapci Dukkani\Kitapci Dukkani\bin\Debug\Kitapci Dukkani.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kitapci Dukkani\Kitapci Dukkani\bin\Debug\Kitapci Dukkani.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kitapci Dukkani\Kitapci Dukkani\obj\Debug\Kitapci Dukkani.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kitapci Dukkani\Kitapci Dukkani\obj\Debug\Kitapci Dukkani.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kitapci Dukkani\Kitapci Dukkani\obj\Debug\Kitapci_Dukkani.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kitapci Dukkani\Kitapci Dukkani\obj\Debug\Kitapci_Dukkani.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kitapci Dukkani\Kitapci Dukkani\obj\Debug\Kitapci Dukkani.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kitapci Dukkani\Kitapci Dukkani\obj\Debug\Kitapci Dukkani.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kitapci Dukkani\Kitapci Dukkani\obj\Debug\Kitapci Dukkani.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kitapci Dukkani\Kitapci Dukkani\obj\Debug\Kitapci Dukkani.pdb

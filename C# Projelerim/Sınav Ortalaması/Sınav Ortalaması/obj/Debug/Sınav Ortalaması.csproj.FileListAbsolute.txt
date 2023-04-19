@@ -1,0 +1,22 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav Ortalaması.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav Ortalaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav_Ortalaması.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav_Ortalaması.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav Ortalaması.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav Ortalaması.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\bin\Debug\Sınav Ortalaması.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\bin\Debug\Sınav Ortalaması.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\bin\Debug\Sınav Ortalaması.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav Ortalaması.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav Ortalaması.pdb
+C:\Users\bunya\OneDrive\Masaüstü\DOSYALAR\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\bin\Debug\Sınav Ortalaması.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\DOSYALAR\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\bin\Debug\Sınav Ortalaması.exe
+C:\Users\bunya\OneDrive\Masaüstü\DOSYALAR\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\bin\Debug\Sınav Ortalaması.pdb
+C:\Users\bunya\OneDrive\Masaüstü\DOSYALAR\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav Ortalaması.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\DOSYALAR\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav Ortalaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\DOSYALAR\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav_Ortalaması.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\DOSYALAR\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav_Ortalaması.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\DOSYALAR\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav Ortalaması.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\DOSYALAR\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav Ortalaması.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\DOSYALAR\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav Ortalaması.exe
+C:\Users\bunya\OneDrive\Masaüstü\DOSYALAR\C# Projelerim\Sınav Ortalaması\Sınav Ortalaması\obj\Debug\Sınav Ortalaması.pdb

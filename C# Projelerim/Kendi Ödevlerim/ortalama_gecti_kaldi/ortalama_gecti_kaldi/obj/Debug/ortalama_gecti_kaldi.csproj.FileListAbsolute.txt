@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\ortalama_gecti_kaldi\ortalama_gecti_kaldi\bin\Debug\ortalama_gecti_kaldi.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\ortalama_gecti_kaldi\ortalama_gecti_kaldi\bin\Debug\ortalama_gecti_kaldi.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\ortalama_gecti_kaldi\ortalama_gecti_kaldi\bin\Debug\ortalama_gecti_kaldi.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\ortalama_gecti_kaldi\ortalama_gecti_kaldi\obj\Debug\ortalama_gecti_kaldi.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\ortalama_gecti_kaldi\ortalama_gecti_kaldi\obj\Debug\ortalama_gecti_kaldi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\ortalama_gecti_kaldi\ortalama_gecti_kaldi\obj\Debug\ortalama_gecti_kaldi.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\ortalama_gecti_kaldi\ortalama_gecti_kaldi\obj\Debug\ortalama_gecti_kaldi.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\ortalama_gecti_kaldi\ortalama_gecti_kaldi\obj\Debug\ortalama_gecti_kaldi.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\ortalama_gecti_kaldi\ortalama_gecti_kaldi\obj\Debug\ortalama_gecti_kaldi.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\ortalama_gecti_kaldi\ortalama_gecti_kaldi\obj\Debug\ortalama_gecti_kaldi.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\ortalama_gecti_kaldi\ortalama_gecti_kaldi\obj\Debug\ortalama_gecti_kaldi.pdb

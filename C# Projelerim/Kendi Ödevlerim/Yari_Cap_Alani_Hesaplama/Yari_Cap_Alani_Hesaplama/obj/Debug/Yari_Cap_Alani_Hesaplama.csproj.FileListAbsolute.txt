@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Yari_Cap_Alani_Hesaplama\Yari_Cap_Alani_Hesaplama\bin\Debug\Yari_Cap_Alani_Hesaplama.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Yari_Cap_Alani_Hesaplama\Yari_Cap_Alani_Hesaplama\bin\Debug\Yari_Cap_Alani_Hesaplama.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Yari_Cap_Alani_Hesaplama\Yari_Cap_Alani_Hesaplama\bin\Debug\Yari_Cap_Alani_Hesaplama.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Yari_Cap_Alani_Hesaplama\Yari_Cap_Alani_Hesaplama\obj\Debug\Yari_Cap_Alani_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Yari_Cap_Alani_Hesaplama\Yari_Cap_Alani_Hesaplama\obj\Debug\Yari_Cap_Alani_Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Yari_Cap_Alani_Hesaplama\Yari_Cap_Alani_Hesaplama\obj\Debug\Yari_Cap_Alani_Hesaplama.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Yari_Cap_Alani_Hesaplama\Yari_Cap_Alani_Hesaplama\obj\Debug\Yari_Cap_Alani_Hesaplama.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Yari_Cap_Alani_Hesaplama\Yari_Cap_Alani_Hesaplama\obj\Debug\Yari_Cap_Alani_Hesaplama.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Yari_Cap_Alani_Hesaplama\Yari_Cap_Alani_Hesaplama\obj\Debug\Yari_Cap_Alani_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Yari_Cap_Alani_Hesaplama\Yari_Cap_Alani_Hesaplama\obj\Debug\Yari_Cap_Alani_Hesaplama.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\Yari_Cap_Alani_Hesaplama\Yari_Cap_Alani_Hesaplama\obj\Debug\Yari_Cap_Alani_Hesaplama.pdb

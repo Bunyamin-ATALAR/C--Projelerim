@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\3_sayi_gir_4_islem_yap\3_sayi_gir_4_islem_yap\bin\Debug\3_sayi_gir_4_islem_yap.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\3_sayi_gir_4_islem_yap\3_sayi_gir_4_islem_yap\bin\Debug\3_sayi_gir_4_islem_yap.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\3_sayi_gir_4_islem_yap\3_sayi_gir_4_islem_yap\bin\Debug\3_sayi_gir_4_islem_yap.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\3_sayi_gir_4_islem_yap\3_sayi_gir_4_islem_yap\obj\Debug\3_sayi_gir_4_islem_yap.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\3_sayi_gir_4_islem_yap\3_sayi_gir_4_islem_yap\obj\Debug\3_sayi_gir_4_islem_yap.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\3_sayi_gir_4_islem_yap\3_sayi_gir_4_islem_yap\obj\Debug\_3_sayi_gir_4_islem_yap.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\3_sayi_gir_4_islem_yap\3_sayi_gir_4_islem_yap\obj\Debug\_3_sayi_gir_4_islem_yap.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\3_sayi_gir_4_islem_yap\3_sayi_gir_4_islem_yap\obj\Debug\3_sayi_gir_4_islem_yap.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\3_sayi_gir_4_islem_yap\3_sayi_gir_4_islem_yap\obj\Debug\3_sayi_gir_4_islem_yap.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\3_sayi_gir_4_islem_yap\3_sayi_gir_4_islem_yap\obj\Debug\3_sayi_gir_4_islem_yap.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\3_sayi_gir_4_islem_yap\3_sayi_gir_4_islem_yap\obj\Debug\3_sayi_gir_4_islem_yap.pdb

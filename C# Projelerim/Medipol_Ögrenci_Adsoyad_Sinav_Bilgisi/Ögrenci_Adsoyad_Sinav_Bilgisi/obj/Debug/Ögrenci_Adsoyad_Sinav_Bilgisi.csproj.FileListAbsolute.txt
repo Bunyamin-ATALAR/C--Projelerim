@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Ögrenci_Adsoyad_Sinav_Bilgisi\Ögrenci_Adsoyad_Sinav_Bilgisi\obj\Debug\Ögrenci_Adsoyad_Sinav_Bilgisi.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Ögrenci_Adsoyad_Sinav_Bilgisi\Ögrenci_Adsoyad_Sinav_Bilgisi\obj\Debug\Ögrenci_Adsoyad_Sinav_Bilgisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Ögrenci_Adsoyad_Sinav_Bilgisi\Ögrenci_Adsoyad_Sinav_Bilgisi\obj\Debug\Ögrenci_Adsoyad_Sinav_Bilgisi.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Ögrenci_Adsoyad_Sinav_Bilgisi\Ögrenci_Adsoyad_Sinav_Bilgisi\obj\Debug\Ögrenci_Adsoyad_Sinav_Bilgisi.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Ögrenci_Adsoyad_Sinav_Bilgisi\Ögrenci_Adsoyad_Sinav_Bilgisi\obj\Debug\Ögrenci_Adsoyad_Sinav_Bilgisi.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Ögrenci_Adsoyad_Sinav_Bilgisi\Ögrenci_Adsoyad_Sinav_Bilgisi\obj\Debug\Ögrenci_Adsoyad_Sinav_Bilgisi.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Ögrenci_Adsoyad_Sinav_Bilgisi\Ögrenci_Adsoyad_Sinav_Bilgisi\bin\Debug\Ögrenci_Adsoyad_Sinav_Bilgisi.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Ögrenci_Adsoyad_Sinav_Bilgisi\Ögrenci_Adsoyad_Sinav_Bilgisi\bin\Debug\Ögrenci_Adsoyad_Sinav_Bilgisi.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Ögrenci_Adsoyad_Sinav_Bilgisi\Ögrenci_Adsoyad_Sinav_Bilgisi\bin\Debug\Ögrenci_Adsoyad_Sinav_Bilgisi.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Ögrenci_Adsoyad_Sinav_Bilgisi\Ögrenci_Adsoyad_Sinav_Bilgisi\obj\Debug\Ögrenci_Adsoyad_Sinav_Bilgisi.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Ögrenci_Adsoyad_Sinav_Bilgisi\Ögrenci_Adsoyad_Sinav_Bilgisi\obj\Debug\Ögrenci_Adsoyad_Sinav_Bilgisi.pdb

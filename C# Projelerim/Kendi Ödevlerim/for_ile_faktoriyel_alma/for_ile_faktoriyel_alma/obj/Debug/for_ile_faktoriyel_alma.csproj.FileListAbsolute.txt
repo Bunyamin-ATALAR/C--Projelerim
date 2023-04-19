@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\for_ile_faktoriyel_alma\for_ile_faktoriyel_alma\bin\Debug\for_ile_faktoriyel_alma.exe.config
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\for_ile_faktoriyel_alma\for_ile_faktoriyel_alma\bin\Debug\for_ile_faktoriyel_alma.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\for_ile_faktoriyel_alma\for_ile_faktoriyel_alma\bin\Debug\for_ile_faktoriyel_alma.pdb
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\for_ile_faktoriyel_alma\for_ile_faktoriyel_alma\obj\Debug\for_ile_faktoriyel_alma.csproj.AssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\for_ile_faktoriyel_alma\for_ile_faktoriyel_alma\obj\Debug\for_ile_faktoriyel_alma.csproj.SuggestedBindingRedirects.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\for_ile_faktoriyel_alma\for_ile_faktoriyel_alma\obj\Debug\for_ile_faktoriyel_alma.Form1.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\for_ile_faktoriyel_alma\for_ile_faktoriyel_alma\obj\Debug\for_ile_faktoriyel_alma.Properties.Resources.resources
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\for_ile_faktoriyel_alma\for_ile_faktoriyel_alma\obj\Debug\for_ile_faktoriyel_alma.csproj.GenerateResource.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\for_ile_faktoriyel_alma\for_ile_faktoriyel_alma\obj\Debug\for_ile_faktoriyel_alma.csproj.CoreCompileInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\for_ile_faktoriyel_alma\for_ile_faktoriyel_alma\obj\Debug\for_ile_faktoriyel_alma.exe
+C:\Users\bunya\OneDrive\Masaüstü\C# Projelerim\Kendi Ödevlerim\for_ile_faktoriyel_alma\for_ile_faktoriyel_alma\obj\Debug\for_ile_faktoriyel_alma.pdb
